@@ -7,9 +7,6 @@ wandb
 data
 outputs
 
-# Apple
-.DS_Store
-
 # VS Code
 .vscode
 
@@ -153,3 +150,6 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# Apple
+.DS_Store
